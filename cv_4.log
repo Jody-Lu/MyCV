@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.6.24)  12 MAR 2016 12:05
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.6.24)  11 AUG 2016 08:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -560,18 +560,18 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 34--34
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 60.
+(Font)              <10.95> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 60.
+(Font)              <8> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 60.
+(Font)              <6> on input line 61.
 [1
 
 ] (./cv_4.aux) ) 
 Here is how much of TeX's memory you used:
  13812 strings out of 493706
  288997 string characters out of 6145769
- 320705 words of memory out of 5000000
+ 320706 words of memory out of 5000000
  17099 multiletter control sequences out of 15000+600000
  6531 words of font info for 42 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
